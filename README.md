@@ -4,7 +4,7 @@ A Flutter project demonstrating Localization.
 
 Contains below features:
 
-- App Language change when updating device locale
+- App Language change when updating device locale from settings
 - in-App Localization
 
 ## App Screenshots
